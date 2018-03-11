@@ -1,0 +1,4 @@
+To run the code, type the following commands:
+						cmake .
+						make
+						./Image_Processes <input image path>
